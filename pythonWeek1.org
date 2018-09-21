@@ -22,12 +22,12 @@
 6. [X] Real world example
 
 ** Basic Data Structure: Strings/ Ints
-1. [ ] Basic Types: Floats, Ints, Strings
-2. [ ] Working with Strings
-3. [ ] Working with Ints
-4. [ ] Concatanating Strings and Ints - demos casting
-5. [ ] Working with floats
-6. [ ] Real world example
+1. [X] Basic Types: Floats, Ints, Strings
+2. [X] Working with Strings
+3. [X] Working with Ints
+4. [X] Concatanating Strings and Ints - demos casting
+5. [X] Working with floats
+6. [X] Real world example
 
 #+begin_src python :results output
 x = 1.2
