@@ -1,0 +1,84 @@
+* Week 1: Python Basics: Crash Course
+** Python Syntax and Basic Linux commands
+1. [ ] Why Python? Why python is useful
+2. [ ] Why Linux? What's the relationship between Linux and Python
+3. [ ] Don't be afraid of the terminal. Basic commands
+4. [ ] How to setup python
+5. [ ] Basic python Arithmetic and Syntax- spaces vs spaces
+
+** Git for Data Science
+1. [ ] What the fuck is Git?
+2. [ ] Demo of using git using this repository
+3. [ ] Working in teams
+4. [ ] Work in teams as you move forward
+5. [ ] Real world example
+
+** Jupyter Lab/ Jupyter Notebook for data science
+1. [ ] Interactivity
+2. [ ] Easy to visualise
+3. [ ] Kernels
+4. [ ] Advantages of learning using jupyter lab
+5. [ ] Don't be too dependent on Jupyter Labs/ Notebooks
+6. [ ] Real world example
+
+** Basic Data Structure: Strings/ Ints
+1. [ ] Basic Types: Floats, Ints, Strings
+2. [ ] Working with Strings
+3. [ ] Working with Ints
+4. [ ] Concatanating Strings and Ints - demos casting
+5. [ ] Working with floats
+6. [ ] Real world example
+
+#+begin_src python :results output
+x = 1.2
+print(3)
+#+end_src
+
+#+RESULTS:
+: 3
+
+#+CALL: prin
+** Functions
+1. [ ] Creating a function
+2. [ ] The concept of abstraction in CS
+3. [ ] How to create a function
+4. [ ] Functions as first class citizens
+5. [ ] Real world example e.g Square, cube, quantuple, square-sum, cube-sume, quantuple-sum
+
+** Basic Data Structure: Lists and Dicts
+1. [ ] What are lists?
+2. [ ] Basic list comprehensions
+3. [ ] Dictionaries
+4. [ ] A side note on algorithms and complexity
+5. [ ] Why the fuck is this stuff important?
+6. [ ] Lists vs Dictionary
+
+** Loops
+1. [ ] Naive for and while loops
+2. [ ] Pythonic way for creating loops using enumerate
+3. [ ] Fuck yeah. list comprehensions
+4. [ ] Reals world example
+   
+** Organizing python code
+1. [ ] Classes
+2. [ ] OO vs FP- touching
+3. [ ] Modules
+4. [ ] Real world example
+
+** File I/O
+1. [ ] Reading to file
+2. [ ] Writing to file
+
+** Project: Web scraper
+1. [ ] Scrape data from NSE
+
+* Week 2: Data Science libraries
+** Numpy
+** Pandas
+** Operations with Numpy and Pandas
+** Other pandas 
+* Week 3: Basic Data Science concepts and Analytics in Python
+
+* Week 4: Python Best Practices
+
+* Week 4: Projects and Analysis
