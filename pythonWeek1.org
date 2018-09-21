@@ -38,12 +38,13 @@ print(3)
 : 3
 
 #+CALL: prin
+
 ** Functions
-1. [ ] Creating a function
-2. [ ] The concept of abstraction in CS
-3. [ ] How to create a function
-4. [ ] Functions as first class citizens
-5. [ ] Real world example e.g Square, cube, quantuple, square-sum, cube-sume, quantuple-sum
+1. [X] Creating a function
+2. [X] The concept of abstraction in CS
+3. [X] How to create a function
+4. [X] Functions as first class citizens
+5. [X] Real world example e.g Square, cube, quantuple, square-sum, cube-sume, quantuple-sum
 
 ** Basic Data Structure: Lists and Dicts
 1. [ ] What are lists?
