@@ -1,17 +1,17 @@
 * Week 1: Python Basics: Crash Course
 ** Python Syntax and Basic Linux commands
-1. [ ] Why Python? Why python is useful
-2. [ ] Why Linux? What's the relationship between Linux and Python
-3. [ ] Don't be afraid of the terminal. Basic commands
-4. [ ] How to setup python
-5. [ ] Basic python Arithmetic and Syntax- spaces vs spaces
+1. [X] Why Python? Why python is useful
+2. [X] Why Linux? What's the relationship between Linux and Python
+3. [X] Don't be afraid of the terminal. Basic commands
+4. [X] How to setup python
+5. [X] Basic python Arithmetic and Syntax- spaces vs spaces
 
 ** Git for Data Science
-1. [ ] What the fuck is Git?
-2. [ ] Demo of using git using this repository
-3. [ ] Working in teams
-4. [ ] Work in teams as you move forward
-5. [ ] Real world example
+1. [X] What the fuck is Git?
+2. [X] Demo of using git using this repository
+3. [X] Working in teams
+4. [X] Work in teams as you move forward
+5. [X] Real world example
 
 ** Jupyter Lab/ Jupyter Notebook for data science
 1. [ ] Interactivity
