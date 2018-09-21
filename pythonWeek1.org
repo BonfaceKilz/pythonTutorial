@@ -14,12 +14,12 @@
 5. [X] Real world example
 
 ** Jupyter Lab/ Jupyter Notebook for data science
-1. [ ] Interactivity
-2. [ ] Easy to visualise
-3. [ ] Kernels
-4. [ ] Advantages of learning using jupyter lab
-5. [ ] Don't be too dependent on Jupyter Labs/ Notebooks
-6. [ ] Real world example
+1. [X] Interactivity
+2. [X] Easy to visualise
+3. [X] Kernels
+4. [X] Advantages of learning using jupyter lab
+5. [X] Don't be too dependent on Jupyter Labs/ Notebooks
+6. [X] Real world example
 
 ** Basic Data Structure: Strings/ Ints
 1. [ ] Basic Types: Floats, Ints, Strings
